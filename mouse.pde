@@ -1,4 +1,4 @@
-void mouseReleased() {
+void mousePressed() {
    if (mode ==INTRO) {
     introClicks();
   } else if (mode == GAME) {
